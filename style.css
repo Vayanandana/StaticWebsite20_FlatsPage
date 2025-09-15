@@ -1,0 +1,310 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.avenueHomePage-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.homePage-card {
+    background-color: #ffffff;
+    padding: 25px;
+    width: 100vw;
+    height: 200px;
+    text-align: center;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.homePage-sunrise-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.homePage-sunrise-discription {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    padding-bottom: 10px;
+}
+
+.homeButton {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+
+/* Flats List Page */
+.flatsListPage-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.flats-list-Sunrise-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.flats-list-card1 {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 10px;
+    margin-bottom: 15px;
+    height: 150px;
+    cursor:pointer;
+}
+
+.flats-list-card1-img {
+    height: 150px;
+    width: 90px;
+}
+
+.flats-list-card1-text-container {
+    padding: 10px;
+}
+
+.flats-list-card1-text-main-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.flats-list-card1-text-discription {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.flats-list-card2 {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 10px;
+    margin-bottom: 15px;
+    height: 150px;
+    cursor:pointer;
+}
+
+.flats-list-card2-img {
+    height: 150px;
+    width: 90px;
+}
+
+.flats-list-card2-text-container {
+    padding: 10px;
+}
+
+.flats-list-card2-text-main-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.flats-list-card2-text-discription {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.flats-list-card3 {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 10px;
+    margin-bottom: 20px;
+    height: 150px;
+    cursor:pointer;
+}
+
+.flats-list-card3-img {
+    height: 150px;
+    width: 90px;
+}
+
+.flats-list-card3-text-container {
+    padding: 10px;
+}
+
+.flats-list-card3-text-main-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.flats-list-card3-text-discription {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.flatsButton {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 10px;
+    width: 100px;
+}
+
+
+/* 3BHK Flat Page */
+.page-3BHK-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    width: 100vw;
+}
+
+.top-img-3BHK {
+    height: 40vh;
+    width: 100vw;
+}
+.bottom-container {
+    padding:20px;
+}
+.page-3BHk-main-heading-price {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.location-img {
+    height:30px;
+}
+.page-3BHk-address-main-heading {
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:15px;
+    padding-left:10px;
+}
+.page-3BHK-discription-main-heading {
+    color:#f19116;
+    font-family:"Bree Serif";
+    font-size:25px;
+    padding-top:10px;
+}
+.page-3BHK-discription {
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:13px;
+}
+.buttons-container {
+    padding:15px;
+}
+.button-3BHK {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 10px;
+    width: 100px;
+}
+
+
+/* 2BHK Flat Page */
+.page-2BHK-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    width: 100vw;
+}
+
+.top-img-2BHK {
+    height: 40vh;
+    width: 100vw;
+}
+.bottom-container {
+    padding:20px;
+}
+.page-2BHk-main-heading-price {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.location-img {
+    height:30px;
+}
+.page-2BHk-address-main-heading {
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:15px;
+    padding-left:10px;
+}
+.page-2BHK-discription-main-heading {
+    color:#f19116;
+    font-family:"Bree Serif";
+    font-size:25px;
+    padding-top:10px;
+}
+.page-2BHK-discription {
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:13px;
+}
+.buttons-container {
+    padding:15px;
+}
+.button-2BHK {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 10px;
+    width: 100px;
+}
+
+/* 4BHK Flat Page */
+
+.page-4BHK-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    width: 100vw;
+}
+
+.top-img-4BHK {
+    height: 40vh;
+    width: 100vw;
+}
+.bottom-container {
+    padding:20px;
+}
+.page-4BHk-main-heading-price {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.location-img {
+    height:30px;
+}
+.page-4BHk-address-main-heading {
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:15px;
+    padding-left:10px;
+}
+.page-4BHK-discription-main-heading {
+    color:#f19116;
+    font-family:"Bree Serif";
+    font-size:25px;
+    padding-top:10px;
+}
+.page-4BHK-discription {
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:13px;
+}
+.buttons-container {
+    padding:15px;
+}
+.button-4BHK {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 10px;
+    width: 100px;
+}
